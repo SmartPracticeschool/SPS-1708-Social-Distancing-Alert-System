@@ -12,6 +12,7 @@ step1: clone the project to your local machine.
 
 step2: Download the yolov3.weights file from the following link and put it in the yolo-coco folder.
 
+       https://pjreddie.com/darknet/yolo/
 
 step3: Open the terminal and change your directory to the folder where you have cloned the project.
 
